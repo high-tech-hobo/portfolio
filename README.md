@@ -23,6 +23,10 @@ Description: I used a LSTM text generating neural network to teach a computer en
 
 ### now_in_billions_of_colors
 
+Description: An internet based project, currently taking the form of performance art, where a friend and I are posting a color a day, iterating through the RGB color spectrum. Long term goals are to automate the process and start a longer version that could theoretically run for 47,000 years.
+
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/billions_of_colors.png" width="500" height="435" />
+
 
 <br>
 
