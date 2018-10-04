@@ -50,6 +50,7 @@ This is the image used to burn the screen I used to ink directly onto the pedest
 These are the black screen layer only
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_1_final.png" width="500" height="500" /> <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_2_final.png" width="500" height="500" />
+
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_3_final.png" width="500" height="500" /> <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_4_final.png" width="500" height="500" />
 
 
