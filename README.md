@@ -14,6 +14,13 @@ I would first like to address the immediate concern of what the heck is an art p
 
 ### Books From the Internet Apocalypse
 
+### Internet Friend
+
+Description: I used a LSTM text generating neural network to teach a computer english using only the messages I had sent at the time of deleting my facebook and downloading a copy of all the data they had on me. Needless to say the computer did not learn very good english. It did however learn phonemes, which are sounds with meaning, almost like syllables, but even shorter, like the phonetic breakdown of words. I plan on revisiting this when I get back into the swing of programming, and make it a little more interactive, like being able to talk to myself, but only the version of me that was on facebook.
+
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/internet_friend.jpg" width="510" height="680" />
+
+
 ### now_in_billions_of_colors
 
 
@@ -27,16 +34,19 @@ I would first like to address the immediate concern of what the heck is an art p
 
 ##### Final
 
+Description: This project started with a romanticized vision of my return to art making after spending 2.5 years in engineering. After some initial critiques, and chatting with visiting artists, I settled on this idea of taking that core symbol of my favorite childhood toy, the 2x4 LEGO brick, and toying with the construction of it. I had seen [this](https://www.youtube.com/watch?v=P2O7vyKnYfo) video at some point, and had been playing with silicon, so I decided I wanted to make a "flesh brick". A LEGO fetus if you will. A soft fleshy, mildly revolting, and definitely infantile in a bad way LEGO brick. To go along with that I picked up screen printing to produce books of "Impossible Instructions" to be used with this brick. They are blank. I like to let people draw their own conclusions, so I shall leave it there with a description.
+
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/capstone_final.jpg" width="500" height="500" />
 
+###### Covers
+These are the black screen layer only
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_1_final.png" width="500" height="500" />
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_1.png" width="500" height="500" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_2_final.png" width="500" height="500" />
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_2.png" width="500" height="500" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_3_final.png" width="500" height="500" />
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_3.png" width="500" height="500" />
-
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_4.png" width="500" height="500" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_4_final.png" width="500" height="500" />
 
 
 ##### Version 2
