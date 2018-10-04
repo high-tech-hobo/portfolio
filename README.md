@@ -42,16 +42,16 @@ Description: This project started with a romanticized vision of my return to art
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/capstone_final.jpg" width="500" height="500" />
 
+This is the image used to burn the screen I used to ink directly onto the pedestal. I had just started the process of printing and hand cutting out the letters when i realized it was going to be beyond slow. So I took a risk with my freshly sanded and painted pedestal and tried screen printing right onto the side, and it worked out great.
+
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pedestal_front.png" width="500" height="266" />
+
 ###### Covers
 These are the black screen layer only
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_1_final.png" width="500" height="500" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_1_final.png" width="500" height="500" /> <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_2_final.png" width="500" height="500" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_3_final.png" width="500" height="500" /> <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_4_final.png" width="500" height="500" />
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_2_final.png" width="500" height="500" />
-
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_3_final.png" width="500" height="500" />
-
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_4_final.png" width="500" height="500" />
 
 
 ##### Version 2
