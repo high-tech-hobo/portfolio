@@ -26,6 +26,14 @@ I would first like to address the immediate concern of what the heck is an art p
 ### Portrait of an Artist as a Young Engineer
 
 ##### Final
+![alt text](https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_1.png)
+![alt text](https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_2.png)
+![alt text](https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_3.png)
+![alt text](https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_4.png)
+
+![alt text](https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/capstone_final.png)
+
+
 ##### Version 2
 ##### Version 1
 
