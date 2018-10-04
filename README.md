@@ -40,6 +40,7 @@ Description: This project started with a romanticized vision of my return to art
 
 ###### Covers
 These are the black screen layer only
+
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_1_final.png" width="500" height="500" />
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_2_final.png" width="500" height="500" />
