@@ -3,6 +3,7 @@ I would first like to address the immediate concern of what the heck is an art p
 
 <br>
 <br>
+## Resume
 
 ## 2018
 
@@ -21,7 +22,7 @@ Description: I used a LSTM text generating neural network to teach a computer en
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/internet_friend.jpg" width="510" height="680" />
 
 
-### now_in_billions_of_colors
+### [now_in_billions_of_colors](https://www.instagram.com/now_in_billions_of_colors/)
 
 Description: An internet based project, currently taking the form of performance art, where a friend and I are posting a color a day, iterating through the RGB color spectrum. Long term goals are to automate the process and start a longer version that could theoretically run for 47,000 years.
 

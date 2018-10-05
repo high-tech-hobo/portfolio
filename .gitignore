@@ -1,0 +1,9 @@
+*.log
+*.synctext
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.gz
+*.code-workspace
+*.cls
