@@ -19,7 +19,7 @@ I would first like to address the immediate concern of what the heck is an art p
 
 Description: I used a LSTM text generating neural network to teach a computer english using only the messages I had sent at the time of deleting my facebook and downloading a copy of all the data they had on me. Needless to say the computer did not learn very good english. It did however learn phonemes, which are sounds with meaning, almost like syllables, but even shorter, like the phonetic breakdown of words. I plan on revisiting this when I get back into the swing of programming, and make it a little more interactive, like being able to talk to myself, but only the version of me that was on facebook.
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/internet_friend.jpg" width="510" height="680" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/internet_friend.jpg" width="510" height="680" />
 
 
 ### [now_in_billions_of_colors](https://www.instagram.com/now_in_billions_of_colors/)
