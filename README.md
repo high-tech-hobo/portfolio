@@ -3,7 +3,9 @@ I would first like to address the immediate concern of what the heck is an art p
 
 <br>
 <br>
+
 ## Resume
+You can click [HERE](blob:null/389c81ce-902b-4ca8-b878-e0bbd828f384) to download a copy of my resume. The currently displayed version will sometimes change slightly because I try to keep it to one page, but for the generally latest version this link will work perfectly.
 
 ## 2018
 
@@ -43,7 +45,7 @@ Description: This project started with a romanticized vision of my return to art
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/capstone_final.jpg" width="500" height="500" />
 
-This is the image used to burn the screen I used to ink directly onto the pedestal. I had just started the process of printing and hand cutting out the letters when i realized it was going to be beyond slow. So I took a risk with my freshly sanded and painted pedestal and tried screen printing right onto the side, and it worked out great.
+This is the image used to burn the screen I used to ink directly onto the pedestal. I had just started the process of printing and hand cutting out the letters when I realized it was going to be beyond slow. So I took a risk with my freshly sanded and painted pedestal and tried screen printing right onto the side, and it worked out great.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/pedestal_front.png" width="500" height="266" />
 
