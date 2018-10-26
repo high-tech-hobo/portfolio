@@ -56,14 +56,17 @@ These are the black screen layer only
 
 #### Version 2
 Final casting in some SmoothOn Dragon Skin Medium
+
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/version_2.png" width="500" height="500" />
 
 #### Version 1
 First attempt at taking a silicon cast out of a silicon mold. Lots of mold release and a lot of SmoothOn Rebound 25
+
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/version_1.png" width="500" height="500" />
 
 #### Master Sculpt
 The original clay sculpt of the LEGO brick. There is a wooden form in the core to save on some clay, and the final dimensions are 30cm x 15cm x 15cm.
+
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/master_sculpt.png" width="500" height="500" />
 
 ### Independent Study of Print Making
