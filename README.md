@@ -19,7 +19,7 @@ I was inspired by John Milton's Paradise Lost to make a comic book with no words
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/milton_comic_cover.png" width="500" height="500" />
 
-I have since done some testing screen printing this cover while I work on the inside of the book. The greyscale halftone black ink layer is below.
+I have since done some testing screen printing this cover while I work on the inside of the book. The greyscale halftone black ink layer is below. This looks very similar, but if you open the raw files and zoom in you can see that the one below is made up of different sized black dots. The density of those dots when you zoom back out results in all the different shades of grey needed to create the image.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/milton_burn_layer.png" width="500" height="500" />
 
