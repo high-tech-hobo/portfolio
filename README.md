@@ -26,7 +26,7 @@ Description: I used a LSTM text generating neural network to teach a computer en
 
 Description: An internet based project, currently taking the form of performance art, where a friend and I are posting a color a day, iterating through the RGB color spectrum. Long term goals are to automate the process and start a longer version that could theoretically run for 47,000 years.
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/billions_of_colors.png" width="500" height="435" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/billions_of_colors.png" width="500" height="435" />
 
 
 <br>
@@ -37,27 +37,34 @@ Description: An internet based project, currently taking the form of performance
 
 ### Portrait of an Artist as a Young Engineer
 
-##### Final
+#### Final
 
 Description: This project started with a romanticized vision of my return to art making after spending 2.5 years in engineering. After some initial critiques, and chatting with visiting artists, I settled on this idea of taking that core symbol of my favorite childhood toy, the 2x4 LEGO brick, and toying with the construction of it. I had seen [this](https://www.youtube.com/watch?v=P2O7vyKnYfo) video at some point, and had been playing with silicon, so I decided I wanted to make a "flesh brick". A LEGO fetus if you will. A soft fleshy, mildly revolting, and definitely infantile in a bad way LEGO brick. To go along with that I picked up screen printing to produce books of "Impossible Instructions" to be used with this brick. They are blank. I like to let people draw their own conclusions, so I shall leave it there with a description.
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/capstone_final.jpg" width="500" height="500" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/capstone_final.jpg" width="500" height="500" />
 
 This is the image used to burn the screen I used to ink directly onto the pedestal. I had just started the process of printing and hand cutting out the letters when i realized it was going to be beyond slow. So I took a risk with my freshly sanded and painted pedestal and tried screen printing right onto the side, and it worked out great.
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pedestal_front.png" width="500" height="266" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/pedestal_front.png" width="500" height="266" />
 
-###### Covers
+##### Covers
 These are the black screen layer only
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_1_final.png" width="500" height="500" /> <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_2_final.png" width="500" height="500" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/cover_1_final.png" width="500" height="500" /> <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/cover_2_final.png" width="500" height="500" />
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_3_final.png" width="500" height="500" /> <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/cover_4_final.png" width="500" height="500" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/cover_3_final.png" width="500" height="500" /> <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/cover_4_final.png" width="500" height="500" />
 
+#### Version 2
+Final casting in some SmoothOn Dragon Skin Medium
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/version_2.png" width="500" height="500" />
 
+#### Version 1
+First attempt at taking a silicon cast out of a silicon mold. Lots of mold release and a lot of SmoothOn Rebound 25
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/version_1.png" width="500" height="500" />
 
-##### Version 2
-##### Version 1
+#### Master Sculpt
+The original clay sculpt of the LEGO brick. There is a wooden form in the core to save on some clay, and the final dimensions are 30cm x 15cm x 15cm.
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/master_sculpt.png" width="500" height="500" />
 
 ### Independent Study of Print Making
 
