@@ -28,14 +28,14 @@ I have since done some testing screen printing this cover while I work on the in
 
 ### Internet Friend
 
-Description: I used a LSTM text generating neural network to teach a computer english using only the messages I had sent at the time of deleting my facebook and downloading a copy of all the data they had on me. Needless to say the computer did not learn very good english. It did however learn phonemes, which are sounds with meaning, almost like syllables, but even shorter, like the phonetic breakdown of words. I plan on revisiting this when I get back into the swing of programming, and make it a little more interactive, like being able to talk to myself, but only the version of me that was on facebook.
+I used a LSTM text generating neural network to teach a computer english using only the messages I had sent at the time of deleting my facebook and downloading a copy of all the data they had on me. Needless to say the computer did not learn very good english. It did however learn phonemes, which are sounds with meaning, almost like syllables, but even shorter, like the phonetic breakdown of words. I plan on revisiting this when I get back into the swing of programming, and make it a little more interactive, like being able to talk to myself, but only the version of me that was on facebook.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/internet_friend.jpg" width="510" height="680" />
 
 
 ### [now_in_billions_of_colors](https://www.instagram.com/now_in_billions_of_colors/)
 
-Description: An internet based project, currently taking the form of performance art, where a friend and I are posting a color a day, iterating through the RGB color spectrum. Long term goals are to automate the process and start a longer version that could theoretically run for 47,000 years.
+An internet based project, currently taking the form of performance art, where a friend and I are posting a color a day, iterating through the RGB color spectrum. Long term goals are to automate the process and start a longer version that could theoretically run for 47,000 years.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/billions_of_colors.png" width="500" height="435" />
 
@@ -50,7 +50,7 @@ Description: An internet based project, currently taking the form of performance
 
 #### Final
 
-Description: This project started with a romanticized vision of my return to art making after spending 2.5 years in engineering. After some initial critiques, and chatting with visiting artists, I settled on this idea of taking that core symbol of my favorite childhood toy, the 2x4 LEGO brick, and toying with the construction of it. I had seen [this](https://www.youtube.com/watch?v=P2O7vyKnYfo) video at some point, and had been playing with silicon, so I decided I wanted to make a "flesh brick". A LEGO fetus if you will. A soft fleshy, mildly revolting, and definitely infantile in a bad way LEGO brick. To go along with that I picked up screen printing to produce books of "Impossible Instructions" to be used with this brick. They are blank. I like to let people draw their own conclusions, so I shall leave it there with a description.
+This project started with a romanticized vision of my return to art making after spending 2.5 years in engineering. After some initial critiques, and chatting with visiting artists, I settled on this idea of taking that core symbol of my favorite childhood toy, the 2x4 LEGO brick, and toying with the construction of it. I had seen [this](https://www.youtube.com/watch?v=P2O7vyKnYfo) video at some point, and had been playing with silicon, so I decided I wanted to make a "flesh brick". A LEGO fetus if you will. A soft fleshy, mildly revolting, and definitely infantile in a bad way LEGO brick. To go along with that I picked up screen printing to produce books of "Impossible Instructions" to be used with this brick. They are blank. I like to let people draw their own conclusions, so I shall leave it there with a description.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/capstone_final.jpg" width="500" height="500" />
 
