@@ -17,7 +17,7 @@ You can click [HERE](https://raw.githubusercontent.com/high-tech-hobo/portfolio/
 
 I was inspired by John Milton's Paradise Lost to make a comic book with no words that explores the morality, utility, and vanity of the characters in the book and by extension all of humanity. The image displayed below is a PNG and thus subject to compression, for the raw image in full resolution with very little compression please click [HERE]().
 
-<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/milton_comic_cover.tif" width="500" height="500" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/milton_comic_cover.png" width="500" height="500" />
 
 I have since done some testing screen printing this cover while I work on the inside of the book. The greyscale halftone black ink layer is below.
 
