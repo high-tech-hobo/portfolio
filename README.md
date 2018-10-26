@@ -5,7 +5,7 @@ I would first like to address the immediate concern of what the heck is an art p
 <br>
 
 ## Resume
-You can click [HERE](blob:null/389c81ce-902b-4ca8-b878-e0bbd828f384) to download a copy of my resume. The currently displayed version will sometimes change slightly because I try to keep it to one page, but for the generally latest version this link will work perfectly.
+You can click [HERE](https://raw.githubusercontent.com/high-tech-hobo/portfolio/35d7230ae544cd2e58f298df0b705085ca15f41b/resume.pdf) to download a copy of my resume. The currently displayed version will sometimes change slightly because I try to keep it to one page, but for the generally latest version this link will work perfectly.
 
 ## 2018
 
