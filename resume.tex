@@ -21,11 +21,25 @@
 
 \documentclass[a4paper]{deedy-resume} % Use US Letter paper, change to a4paper for A4 
     \usepackage{enumitem}
-    \setlist[itemize]{topsep=-2pt,itemsep=-1pt,partopsep=4pt,parsep=4pt}
-    \setlist[description]{topsep=0pt,itemsep=2pt,partopsep=4pt,parsep=4pt}
+    \usepackage{fontspec}
+    \usepackage{graphicx}   
+    \setlist[itemize]{topsep=-0pt,itemsep=-1pt,partopsep=2pt,parsep=2pt}
+    \setlist[description]{leftmargin=16pt,labelindent=16pt,topsep=0pt,itemsep=1pt,partopsep=2pt,parsep=2pt}
 
-    \titlespacing\section{0pt}{-5pt plus 4pt minus 2pt}{0pt plus 2pt minus 20pt} %the -5pt is space before, experiment with the numbers
-    \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+    %titlespacing{command}{left spacing}{before spacing}{after spacing}[right]
+    \titlespacing\section{0pt}{2pt plus 2pt minus 2pt}{0pt plus 1pt minus 1pt}
+    \titlespacing\subsection{0pt}{0pt plus 1pt minus 1pt}{0pt plus 1pt minus 1pt}
+    \titlespacing\subsubsection{0pt}{0pt plus 1pt minus 1pt}{0pt plus 1pt minus 1pt}
+
+
+    \newfontfamily\myfont{DejaVu Sans Condensed} 
+
+    \def\epsamp{{\myfont%
+        \raisebox{0.4\depth}{%
+        {\scalebox{1}[0.81]{\char"03B5}}% epsilon
+        {\scalebox{1}[0.6]{\raisebox{-0.18ex}{\kern-0.69ex\rotatebox[origin=c]{180}{\char"0375}}}}% bottom stroke
+        {\scalebox{1}[0.6]{\raisebox{0.43ex}{\kern-0.31ex\char"02B9}}}% top stroke
+    }}}
     
     \begin{document}
     
@@ -34,7 +48,7 @@
     %----------------------------------------------------------------------------------------
     
     \namesection{Thomas}{Williams}{ % Your name
-    47 Headgate Rd, Damariscotta, Maine \\
+    47 Headgate Rd, Damariscotta, Maine 04543\\
     207.350.0989 - \href{mailto:thomaslodgewilliams@gmail.com}{thomaslodgewilliams@gmail.com} \\}
     %\urlstyle{same}\url{https://fr.linkedin.com/in/simonkth}}
     
@@ -52,19 +66,19 @@
     \section{Education}
     
     \runsubsection{Lafayette College}
-    \descript{| Bachelor of arts in studio art with minor in architecture}
+    \descript{| BA in studio art with minor in architecture \epsamp{} focus in engineering}
     \location{Class of 2018 | Easton, Pennsylvania}
 
     \begin{description}
-        \item[Capstone Project:] MAKE TECHNICAL WORKING TITLE
+        \item[Capstone Project] Portrait of an Artist as a Young Engineer
         \begin{itemize}
             \item Sculpted clay master of 30cm x 15cm x 15cm LEGO brick
             \item Produced one part silicon mold of master sculpt
-            \item Hand screen-printed and bound LEGO-styled instruction books
+            \item Hand screen-printed and bound LEGO-style metaphysical instruction books
         \end{itemize}
     \end{description}
     
-    \sectionspace % Some whitespace after the section
+    %\sectionspace % Some whitespace after the section
     %\sectionspace % Some whitespace after the section
 
     %------------------------------------------------
@@ -92,7 +106,7 @@
     \fi
     \end{description}
 
-    \sectionspace % Some whitespace after the section
+    %\sectionspace % Some whitespace after the section
 
     \fi
 
@@ -115,7 +129,7 @@
     \end{itemize}
     \fi
 
-    \item[Deck Hand] aided with deck and rigging duties on a 110' historic schooner
+    \item[Deck Hand] aided with deck and rigging duties on a 110ft historic schooner
     
     % Optional detailed list
     \iffalse 
@@ -128,7 +142,7 @@
 
     \end{description}
 
-    \sectionspace % Some whitespace after the section
+    %\sectionspace % Some whitespace after the section
 
     \fi
     
@@ -162,27 +176,11 @@
     \fi
     \end{description}
     
-    \sectionspace % Some whitespace after the section
+    %\sectionspace % Some whitespace after the section
     
     %------------------------------------------------
-    
-    \runsubsection{Lafayette College}
-    \descript{| TEDx keynote speaker}
-    \location{December 2014 | Easton, Pennsylvania}
-
-    \begin{description}
-        \item[Speaker] at a TEDx symposium
-        \begin{itemize}
-            \item Explored creativity as a lifelong learning tool and scrutinized the idea of "toys as tools" from child- to adulthood
-            \item Drew from personal experience LEGO bricks to encourage adults to play
-        \end{itemize}
-    \end{description}
-
-    \sectionspace % Some whitespace after the section
-
-    %------------------------------------------------
-    
-    \iffalse
+        
+    \iftrue
     \runsubsection{Cold Regions Research and Engineering Lab}
     \descript{| data processing intern}
     \location{Summer 2015 | Hanover, New Hampshire}
@@ -192,8 +190,24 @@
         \item[Data Processing] downloaded data was trimmed with custom program to a very specific region - \textbf{Java}
     \end{description}
     \fi
+
+    %\sectionspace % Some whitespace after the section
+
+    %------------------------------------------------
     
-    \sectionspace % Some whitespace after the section
+    \runsubsection{Lafayette College}
+    \descript{| TEDx keynote speaker}
+    \location{December 2014 | Easton, Pennsylvania}
+
+    \begin{description}
+        \item[Speaker] at a TEDx symposium
+        \begin{itemize}
+            \item Explored creativity as a lifelong learning tool and scrutinized the idea of "toys as tools" from child to adulthood
+            \item Drew from personal experience using LEGO bricks to encourage adults to play
+        \end{itemize}
+    \end{description}
+
+    %\sectionspace % Some whitespace after the section
 
     %------------------------------------------------
     
@@ -202,11 +216,11 @@
     \location{August 2010 – June 2014 | Newcastle, Maine}
 
     \begin{description}
-        \item[Technitian] for set, prop, and light design and construction
+        \item[Technician] for set, prop, and light design and construction
         \item[Run Crew] for live light and sound production
     \end{description}
 
-    \sectionspace % Some whitespace after the section
+    %\sectionspace % Some whitespace after the section
 
 
     %------------------------------------------------
@@ -218,74 +232,63 @@
     %------------------------------------------------
     
     \section{Specific Skills}
-    
-
-    \begin{minipage}[t]{0.33\textwidth}
-        \subsection{Art and Fabrication}
+    \begin{minipage}{0.24\textwidth}
+        \subsection{Art Fabrication}
         
         \location{LEGO}
-            \textbullet{} 21 years building with LEGO bricks\\
-            \textbullet{} LDD and \href{http://bricksmith.sourceforge.net/}{Bricksmith} proficient\\
-            \textbullet{} Collection of  75,000+ LEGO bricks
+            \textbullet{} 21 years building LEGO\\
+            \textbullet{} LDD, \epsamp{} \href{http://bricksmith.sourceforge.net/}{Bricksmith}\\
+            \textbullet{} 75,000+ brick collection
 
-        \location{Sculpture}
-            \textbullet{} Casting w/ silicon, alginate, plaster\\
+        \location{SCULPTURE}
+            \textbullet{} silicon plaster casting\\
             \textbullet{} Live casting\\
             \textbullet{} Multimedia sculpting\\
         
     \end{minipage}
-    \begin{minipage}[t]{0.29\textwidth}
+    \begin{minipage}{0.24\textwidth}
     
         \subsection{}
         
-        \location{Construction}
+        \location{CONSTRUCTION}
             \textbullet{} Most wood tools \\
-            \textbullet{} Basic drafting and design\\
+            \textbullet{} Basic drafting/design\\
             \textbullet{} Basic framing \\
-            \textbullet{} Basic electrical \\
 
-        \location{Other}
-            \textbullet{} CNC building and programming \\
+        \location{OTHER}
+            \textbullet{} CNC building/programming \\
             \textbullet{} Screen printing\\
-            \textbullet{} Basic circuit design and analysis\\
+            \textbullet{} Basic circuit design\\
         
     \end{minipage}
-    \begin{minipage}[t]{0.29\textwidth}
+    \begin{minipage}{0.24\textwidth}
     
         \subsection{Digital}
         
-        \location{Computer Science and Technology}
-            \textbullet{} Basic Java, Python, and Git \\
-            \textbullet{} PC and Mac use and repair \\
-            \textbullet{} Hobbyist electronics
-
-        \location{Grapihc Design}
-            \textbullet{} Adobe Photoshop and Illustrator \\
-            \textbullet{} Krita and OpenToonz Animation \\
+        \location{COMPUTER SCIENCE \epsamp{} TECHNOLOGY}
+            \textbullet{} Basic Java, Python, Git \\
+            \textbullet{} PC and Mac use/repair \\
+        \location{GRAPHIC DESIGN}
+            \textbullet{} Adobe design suite \\
+            \textbullet{} Krita and OpenToonz \\
             \textbullet{} CAD \\
         
     
     \end{minipage}
+    \begin{minipage}{0.24\textwidth}
 
-    
-    \iffalse
-    \begin{minipage}[t]{0.33\textwidth}
-    \subsection{Outdoor}
-    
-    \location{Rock Climbing}
-        \textbullet{} Rock Wall Employee lead 5.08 \\
-        \textbullet{} Top rope 5.10\\
-    
-    \location{Backpacking}
-        \textbullet{} 15+ yrs backcountry experience \\
-        \textbullet{} Wilderness First Responder\\
-    \location{Water Activities}
-        \textbullet{} Lifeguard \\
-        \textbullet{} Capable Sailor \\
-        \textbullet{} kayaking/canoeing/rafting\\
+        \subsection{OUTDOOR}
+        
+        \location{ROCK CLIMBING}
+            \textbullet{} lead 5.08, top rope 5.10 \\
+        \location{BACKPACKING}
+            \textbullet{} 200+ nights in backcountry \\
+            \textbullet{} Wilderness First Responder\\
+        \location{WATER ACTIVITIES}
+            \textbullet{} Lifeguard \\
+            \textbullet{} Sailing/kayaking/rafting\\
     
     \end{minipage}
-    \fi
     
     \sectionspace % Some whitespace after the section
     %\sectionspace % Some whitespace after the section
