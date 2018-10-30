@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <title>Thomas Williams Personal Portfolio (Work in Progress)</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0-rc.1/dist/katex.min.css" integrity="sha384-D+9gmBxUQogRLqvARvNLmA9hS2x//eK1FhVb9PiU86gmcrBrJAQT8okdJ4LMp2uv" crossorigin="anonymous">
+        <style>
+/*--------------------------------------------------------------------------------------------- * Copyright (c) Microsoft Corporation. All rights reserved. * Licensed under the MIT License. See License.txt in the project root for license information. *--------------------------------------------------------------------------------------------*/ body { font-family: "Segoe WPC", "Segoe UI", "SFUIText-Light", "HelveticaNeue-Light", sans-serif, "Droid Sans Fallback"; font-size: 14px; padding: 0 26px; line-height: 22px; word-wrap: break-word; } #code-csp-warning { position: fixed; top: 0; right: 0; color: white; margin: 16px; text-align: center; font-size: 12px; font-family: sans-serif; background-color:#444444; cursor: pointer; padding: 6px; box-shadow: 1px 1px 1px rgba(0,0,0,.25); } #code-csp-warning:hover { text-decoration: none; background-color:#007acc; box-shadow: 2px 2px 2px rgba(0,0,0,.25); } body.scrollBeyondLastLine { margin-bottom: calc(100vh - 22px); } body.showEditorSelection .code-line { position: relative; } body.showEditorSelection .code-active-line:before, body.showEditorSelection .code-line:hover:before { content: ""; display: block; position: absolute; top: 0; left: -12px; height: 100%; } body.showEditorSelection li.code-active-line:before, body.showEditorSelection li.code-line:hover:before { left: -30px; } .vscode-light.showEditorSelection .code-active-line:before { border-left: 3px solid rgba(0, 0, 0, 0.15); } .vscode-light.showEditorSelection .code-line:hover:before { border-left: 3px solid rgba(0, 0, 0, 0.40); } .vscode-light.showEditorSelection .code-line .code-line:hover:before { border-left: none; } .vscode-dark.showEditorSelection .code-active-line:before { border-left: 3px solid rgba(255, 255, 255, 0.4); } .vscode-dark.showEditorSelection .code-line:hover:before { border-left: 3px solid rgba(255, 255, 255, 0.60); } .vscode-dark.showEditorSelection .code-line .code-line:hover:before { border-left: none; } .vscode-high-contrast.showEditorSelection .code-active-line:before { border-left: 3px solid rgba(255, 160, 0, 0.7); } .vscode-high-contrast.showEditorSelection .code-line:hover:before { border-left: 3px solid rgba(255, 160, 0, 1); } .vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before { border-left: none; } img { max-width: 100%; max-height: 100%; } a { text-decoration: none; } a:hover { text-decoration: underline; } a:focus, input:focus, select:focus, textarea:focus { outline: 1px solid -webkit-focus-ring-color; outline-offset: -1px; } hr { border: 0; height: 2px; border-bottom: 2px solid; } h1 { padding-bottom: 0.3em; line-height: 1.2; border-bottom-width: 1px; border-bottom-style: solid; } h1, h2, h3 { font-weight: normal; } h1 code, h2 code, h3 code, h4 code, h5 code, h6 code { font-size: inherit; line-height: auto; } table { border-collapse: collapse; } table > thead > tr > th { text-align: left; border-bottom: 1px solid; } table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table > tbody > tr > td { padding: 5px 10px; } table > tbody > tr + tr > td { border-top: 1px solid; } blockquote { margin: 0 7px 0 5px; padding: 0 16px 0 10px; border-left-width: 5px; border-left-style: solid; } code { font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback"; font-size: 14px; line-height: 19px; } body.wordWrap pre { white-space: pre-wrap; } .mac code { font-size: 12px; line-height: 18px; } pre:not(.hljs), pre.hljs code > div { padding: 16px; border-radius: 3px; overflow: auto; } /** Theming */ pre code { color: var(--vscode-editor-foreground); } .vscode-light pre:not(.hljs), .vscode-light code > div { background-color: rgba(220, 220, 220, 0.4); } .vscode-dark pre:not(.hljs), .vscode-dark code > div { background-color: rgba(10, 10, 10, 0.4); } .vscode-high-contrast pre:not(.hljs), .vscode-high-contrast code > div { background-color: rgb(0, 0, 0); } .vscode-high-contrast h1 { border-color: rgb(0, 0, 0); } .vscode-light table > thead > tr > th { border-color: rgba(0, 0, 0, 0.69); } .vscode-dark table > thead > tr > th { border-color: rgba(255, 255, 255, 0.69); } .vscode-light h1, .vscode-light hr, .vscode-light table > tbody > tr + tr > td { border-color: rgba(0, 0, 0, 0.18); } .vscode-dark h1, .vscode-dark hr, .vscode-dark table > tbody > tr + tr > td { border-color: rgba(255, 255, 255, 0.18); } 
+</style>
+<style>
+/* Tomorrow Theme */ /* http://jmblog.github.com/color-themes-for-google-code-highlightjs */ /* Original theme - https://github.com/chriskempson/tomorrow-theme */ /* Tomorrow Comment */ .hljs-comment, .hljs-quote { color: #8e908c; } /* Tomorrow Red */ .hljs-variable, .hljs-template-variable, .hljs-tag, .hljs-name, .hljs-selector-id, .hljs-selector-class, .hljs-regexp, .hljs-deletion { color: #c82829; } /* Tomorrow Orange */ .hljs-number, .hljs-built_in, .hljs-builtin-name, .hljs-literal, .hljs-type, .hljs-params, .hljs-meta, .hljs-link { color: #f5871f; } /* Tomorrow Yellow */ .hljs-attribute { color: #eab700; } /* Tomorrow Green */ .hljs-string, .hljs-symbol, .hljs-bullet, .hljs-addition { color: #718c00; } /* Tomorrow Blue */ .hljs-title, .hljs-section { color: #4271ae; } /* Tomorrow Purple */ .hljs-keyword, .hljs-selector-tag { color: #8959a8; } .hljs { display: block; overflow-x: auto; color: #4d4d4c; padding: 0.5em; } .hljs-emphasis { font-style: italic; } .hljs-strong { font-weight: bold; }
+</style>
+<style>
+.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
+</style>
+        <style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'HelveticaNeue-Light', 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 id="thomas-williams-personal-portfolio-work-in-progress">Thomas Williams Personal Portfolio (Work in Progress)</h1>
+<p>I would first like to address the immediate concern of what the heck is an art portfolio doing on GitHub. For those that might not know this site it mainly used for hosting programming projects, which I have a few of on here actually and will be adding a few more. Now why does it make sense for me to have my image based portfolio here? A few reasons actually. The first one is that I already know how to use all the functionality needed to host these files here with descriptions of the projects. Once I have finished my personal website I can use links to these images and files for display and download on said site. Finally, it's free. So without further ado in mostly chronological order from most recent back here are various projects both art and otherwise I have worked on.</p>
+<br>
+<br>
+<h2 id="resume">Resume</h2>
+<p>You can click <a href="https://raw.githubusercontent.com/high-tech-hobo/portfolio/35d7230ae544cd2e58f298df0b705085ca15f41b/resume.pdf">HERE</a> to download a copy of my resume. The currently displayed version will sometimes change slightly because I try to keep it to one page, but for the generally latest version this link will work perfectly.</p>
+<h2 id="2018">2018</h2>
+<h3 id="character-commission">Character Commission</h3>
+<h3 id="personal-logo">Personal Logo</h3>
+<h3 id="paradise-made-cover">Paradise Made Cover</h3>
+<p>I was inspired by John Milton's Paradise Lost to make a comic book with no words that explores the morality, utility, and vanity of the characters in the book and by extension all of humanity. The image displayed below is a PNG and thus subject to compression, for the raw image in full resolution with very little compression please click <a href="">HERE</a>.</p>
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/milton_comic_cover.png" width="500" height="500" />
+<p>I have since done some testing screen printing this cover while I work on the inside of the book. The greyscale halftone black ink layer is below. This looks very similar, but if you open the raw files and zoom in you can see that the one below is made up of different sized black dots. The density of those dots when you zoom back out results in all the different shades of grey needed to create the image.</p>
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/milton_burn_layer.png" width="500" height="500" />
+<h3 id="books-from-the-internet-apocalypse">Books From the Internet Apocalypse</h3>
+<h3 id="internet-friend">Internet Friend</h3>
+<p>I used a LSTM text generating neural network to teach a computer english using only the messages I had sent at the time of deleting my facebook and downloading a copy of all the data they had on me. Needless to say the computer did not learn very good english. It did however learn phonemes, which are sounds with meaning, almost like syllables, but even shorter, like the phonetic breakdown of words. I plan on revisiting this when I get back into the swing of programming, and make it a little more interactive, like being able to talk to myself, but only the version of me that was on facebook.</p>
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/internet_friend.jpg" width="510" height="680" />
+<h3 id="nowinbillionsofcolors"><a href="https://www.instagram.com/now_in_billions_of_colors/">now_in_billions_of_colors</a></h3>
+<p>An internet based project, currently taking the form of performance art, where a friend and I are posting a color a day, iterating through the RGB color spectrum. Long term goals are to automate the process and start a longer version that could theoretically run for 47,000 years.</p>
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/billions_of_colors.png" width="500" height="435" />
+<br>
+<h2 id="2017">2017</h2>
+<h3 id="functional-density">Functional Density</h3>
+<h3 id="portrait-of-an-artist-as-a-young-engineer">Portrait of an Artist as a Young Engineer</h3>
+<h4 id="final">Final</h4>
+<p>This project started with a romanticized vision of my return to art making after spending 2.5 years in engineering. After some initial critiques, and chatting with visiting artists, I settled on this idea of taking that core symbol of my favorite childhood toy, the 2x4 LEGO brick, and toying with the construction of it. I had seen <a href="https://www.youtube.com/watch?v=P2O7vyKnYfo">this</a> video at some point, and had been playing with silicon, so I decided I wanted to make a &quot;flesh brick&quot;. A LEGO fetus if you will. A soft fleshy, mildly revolting, and definitely infantile in a bad way LEGO brick. To go along with that I picked up screen printing to produce books of &quot;Impossible Instructions&quot; to be used with this brick. They are blank. I like to let people draw their own conclusions, so I shall leave it there with a description.</p>
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/capstone_final.jpg" width="500" height="500" />
+<p>This is the image used to burn the screen I used to ink directly onto the pedestal. I had just started the process of printing and hand cutting out the letters when I realized it was going to be beyond slow. So I took a risk with my freshly sanded and painted pedestal and tried screen printing right onto the side, and it worked out great.</p>
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/pedestal_front.png" width="500" height="266" />
+<h5 id="covers">Covers</h5>
+<p>These are the black screen layer only</p>
+<p><img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/cover_1_final.png" width="500" height="500" /> <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/cover_2_final.png" width="500" height="500" /></p>
+<p><img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/cover_3_final.png" width="500" height="500" /> <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/cover_4_final.png" width="500" height="500" /></p>
+<h4 id="version-2">Version 2</h4>
+<p>Final casting in some SmoothOn Dragon Skin Medium</p>
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/version_2.jpg" width="500" height="500" />
+<h4 id="version-1">Version 1</h4>
+<p>First attempt at taking a silicon cast out of a silicon mold. Lots of mold release and a lot of SmoothOn Rebound 25</p>
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/version_1.jpg" width="500" height="500" />
+<h4 id="master-sculpt">Master Sculpt</h4>
+<p>The original clay sculpt of the LEGO brick. There is a wooden form in the core to save on some clay, and the final dimensions are 30cm x 15cm x 15cm.</p>
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/master_sculpt.jpg" width="500" height="500" />
+<h3 id="independent-study-of-print-making">Independent Study of Print Making</h3>
+<h3 id="drawing-1-assignments">Drawing 1 Assignments</h3>
+
+    </body>
+    </html>
