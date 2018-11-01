@@ -90,13 +90,58 @@ The original clay sculpt of the LEGO brick. There is a wooden form in the core t
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/capstone/master_sculpt.jpg" width="500" height="500" />
 
+
+<br>
+<br>
+
 ### Independent Study of Print Making
+
+
+<br>
 
 ### Drawing 1 Assignments
 
 
+#### Self Portrait w/ Mirror
+Winter 2017
+This was the first self portrait I had ever attempted, there is a lot wrong with it, but for a first attempt I'll take it.
+<img src="https://raw.githubusercontent.com/high-tech-hobo\portfolio\pictures\drawing_1\self_portrait.jpg" width="500" height="669" />
 
 
+#### Portrait from Memory
+Winter 2017
+Drew my brother from memory, again not great, but I'm pleased with the distortion of the eye through the glasses.
+<img src="https://raw.githubusercontent.com/high-tech-hobo\portfolio\pictures\drawing_1\portrait_from_memory.jpg" width="500" height="669" />
+
+
+#### White on White Still Life
+Winter 2017
+Early work on greyscale drawing. The mug and it's shadow I'm particularly fond of.
+<img src="https://raw.githubusercontent.com/high-tech-hobo\portfolio\pictures\drawing_1\still_life.jpg" width="669" height="500" />
+
+
+#### Final Project
+Winter 2017
+Had to do something sort of surreal, so I did a racoon taking field notes on humans.
+<img src="https://raw.githubusercontent.com/high-tech-hobo\portfolio\pictures\drawing_1\final_project.jpg" width="669" height="500" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo\portfolio\pictures\drawing_1\final_project_rough.jpg" width="669" height="500" />
+
+<br>
+
+## 2016
+
+### Bread Head
+Fall 2016
+Various Breads and Butters Sticker
+This was for a podcast hosted by two professors at Lafayette College. They had long had a sticker of a person sitting in a chair, but the head had been replaced with a loaf of bread. We referred to this character as "The Bread Head". I got a chuckle out of this with the reference to the Grateful Dead, so I made this sticker for them.
+<img src="https://raw.githubusercontent.com/high-tech-hobo\portfolio\pictures\other\bread_head.jpg" width="504" height="500" />
+
+
+### Day Blind Stars
+Summer 2016
+I've always loved stars. Being able to see stars at night was a factor when picking out colleges. I was also going through s stippling phase.
+<img src="https://raw.githubusercontent.com/high-tech-hobo\portfolio\pictures\other\day_blind_stars_1.jpg" width="500" height="669" />
+<img src="https://raw.githubusercontent.com/high-tech-hobo\portfolio\pictures\other\day_blind_stars_2.jpg" width="500" height="669" />
 
 
 
