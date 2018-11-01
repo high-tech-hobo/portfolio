@@ -1,3 +1,6 @@
+| [home](thomaslodgewilliams.com) | [portfolio](thomaslodgewilliams.com/portfolio) | [blog](thomaslodgewilliams.com/blog) | [project list](thomaslodgewilliams.com/project_list) | [links](thomaslodgewilliams.com/links) |
+============================================
+
 # Thomas Williams Personal Portfolio (Work in Progress)
 In mostly chronological order from most recent back here are various projects both art and otherwise I have worked on.
 
