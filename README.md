@@ -11,13 +11,21 @@ You can click [HERE](https://raw.githubusercontent.com/high-tech-hobo/portfolio/
 
 ### Character Commission
 
+This is actually part of a series of characters for a Dungeons and Dragons campaign. Still not quite done, I'm totally happy with it, but it's come along nicely.
 
+<img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/commissions/char_1.png" width="219" height="500" />
+
+<br>
+<br>
 
 ### Personal Logo
 
+<br>
+<br>
+
 ### Paradise Made Cover
 
-I was inspired by John Milton's Paradise Lost to make a comic book with no words that explores the morality, utility, and vanity of the characters in the book and by extension all of humanity. The image displayed below is a PNG and thus subject to compression, for the raw image in full resolution with very little compression please click [HERE]().
+I was inspired by John Milton's Paradise Lost to make a comic book with no words that explores the morality, utility, and vanity of the characters in the book and by extension all of humanity. The image displayed below is a PNG and thus subject to compression, for the raw image in full resolution with very little compression please click [HERE](https://github.com/high-tech-hobo/portfolio/blob/master/pictures/paradise_made/milton_comic_cover.tif?raw=true).
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/paradise_made/milton_comic_cover.png" width="500" height="500" />
 
@@ -92,10 +100,19 @@ The original clay sculpt of the LEGO brick. There is a wooden form in the core t
 
 
 
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 For those that are viewing this on github still, I would first like to address the immediate question of what the heck is an art portfolio doing on GitHub. For those that might not know this site it mainly used for hosting programming projects, which I have a few of on here actually and will be adding a few more. Now why does it make sense for me to have my image based portfolio here? A few reasons actually. The first one is that I already know how to use all the functionality needed to host these files here with descriptions of the projects. Once I have finished my personal website I can use links to these images and files for display and download on said site. Finally, it's free. 
