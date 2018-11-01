@@ -17,7 +17,7 @@ You can click [HERE](https://raw.githubusercontent.com/high-tech-hobo/portfolio/
 
 ### Character Commission
 Summer 2018 <br>
-This is actually part of a series of characters for a Dungeons and Dragons campaign. Still not quite done, I'm totally happy with it, but it's come along nicely.
+This is actually part of a series of characters for a Dungeons and Dragons campaign. Still not quite done, I'm not totally happy with it, but it's come along nicely.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/commissions/char_1.png" width="219" height="500" />
 
