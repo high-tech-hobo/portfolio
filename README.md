@@ -7,10 +7,13 @@ In mostly chronological order from most recent back here are various projects bo
 ## Resume
 You can click [HERE](https://raw.githubusercontent.com/high-tech-hobo/portfolio/35d7230ae544cd2e58f298df0b705085ca15f41b/resume.pdf) to download a copy of my resume. The currently displayed version will sometimes change slightly because I try to keep it to one page, but for the generally latest version this link will work perfectly.
 
+<br>
+<br>
+
 ## 2018
 
 ### Character Commission
-
+Summer 2018 <br>
 This is actually part of a series of characters for a Dungeons and Dragons campaign. Still not quite done, I'm totally happy with it, but it's come along nicely.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/commissions/char_1.png" width="219" height="500" />
@@ -24,7 +27,7 @@ This is actually part of a series of characters for a Dungeons and Dragons campa
 <br>
 
 ### Paradise Made Cover
-
+Spring 2018 <br>
 I was inspired by John Milton's Paradise Lost to make a comic book with no words that explores the morality, utility, and vanity of the characters in the book and by extension all of humanity. The image displayed below is a PNG and thus subject to compression, for the raw image in full resolution with very little compression please click [HERE](https://github.com/high-tech-hobo/portfolio/blob/master/pictures/paradise_made/milton_comic_cover.tif?raw=true).
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/paradise_made/milton_comic_cover.png" width="500" height="500" />
@@ -37,14 +40,14 @@ I have since done some testing screen printing this cover while I work on the in
 ### Books From the Internet Apocalypse
 
 ### Internet Friend
-
+Spring 2018 <br>
 I used a LSTM text generating neural network to teach a computer english using only the messages I had sent at the time of deleting my facebook and downloading a copy of all the data they had on me. Needless to say the computer did not learn very good english. It did however learn phonemes, which are sounds with meaning, almost like syllables, but even shorter, like the phonetic breakdown of words. I plan on revisiting this when I get back into the swing of programming, and make it a little more interactive, like being able to talk to myself, but only the version of me that was on facebook.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/other/internet_friend.jpg" width="510" height="680" />
 
 
 ### [now_in_billions_of_colors](https://www.instagram.com/now_in_billions_of_colors/)
-
+Spring 2018 <br>
 An internet based project, currently taking the form of performance art, where a friend and I are posting a color a day, iterating through the RGB color spectrum. Long term goals are to automate the process and start a longer version that could theoretically run for 47,000 years.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/other/billions_of_colors.png" width="500" height="435" />
@@ -57,7 +60,7 @@ An internet based project, currently taking the form of performance art, where a
 ### Functional Density
 
 ### Portrait of an Artist as a Young Engineer
-
+Fall 2017
 #### Final
 
 This project started with a romanticized vision of my return to art making after spending 2.5 years in engineering. After some initial critiques, and chatting with visiting artists, I settled on this idea of taking that core symbol of my favorite childhood toy, the 2x4 LEGO brick, and toying with the construction of it. I had seen [this](https://www.youtube.com/watch?v=P2O7vyKnYfo) video at some point, and had been playing with silicon, so I decided I wanted to make a "flesh brick". A LEGO fetus if you will. A soft fleshy, mildly revolting, and definitely infantile in a bad way LEGO brick. To go along with that I picked up screen printing to produce books of "Impossible Instructions" to be used with this brick. They are blank. I like to let people draw their own conclusions, so I shall leave it there with a description.
@@ -103,28 +106,28 @@ The original clay sculpt of the LEGO brick. There is a wooden form in the core t
 
 
 #### Self Portrait w/ Mirror
-Winter 2017
+Winter 2017 <br>
 This was the first self portrait I had ever attempted, there is a lot wrong with it, but for a first attempt I'll take it.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/drawing_1/self_portrait.jpg" width="500" height="669" />
 
 
 #### Portrait from Memory
-Winter 2017
+Winter 2017 <br>
 Drew my brother from memory, again not great, but I'm pleased with the distortion of the eye through the glasses.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/drawing_1/portrait_from_memory.jpg" width="500" height="669" />
 
 
 #### White on White Still Life
-Winter 2017
+Winter 2017 <br>
 Early work on greyscale drawing. The mug and it's shadow I'm particularly fond of.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/drawing_1/still_life.jpg" width="669" height="500" />
 
 
 #### Final Project
-Winter 2017
+Winter 2017 <br>
 Had to do something sort of surreal, so I did a racoon taking field notes on humans.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/drawing_1/final_project.jpg" width="669" height="500" />
@@ -135,7 +138,7 @@ Had to do something sort of surreal, so I did a racoon taking field notes on hum
 ## 2016
 
 ### Bread Head
-Fall 2016
+Fall 2016 <br>
 Various Breads and Butters Sticker
 This was for a podcast hosted by two professors at Lafayette College. They had long had a sticker of a person sitting in a chair, but the head had been replaced with a loaf of bread. We referred to this character as "The Bread Head". I got a chuckle out of this with the reference to the Grateful Dead, so I made this sticker for them.
 
@@ -143,7 +146,7 @@ This was for a podcast hosted by two professors at Lafayette College. They had l
 
 
 ### Day Blind Stars
-Summer 2016
+Summer 2016 <br>
 I've always loved stars. Being able to see stars at night was a factor when picking out colleges. I was also going through s stippling phase.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/other/day_blind_stars_1.jpg" width="500" height="669" />
