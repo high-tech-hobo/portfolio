@@ -1,4 +1,4 @@
-| [home](thomaslodgewilliams.com) | [portfolio](thomaslodgewilliams.com/portfolio) | [blog](thomaslodgewilliams.com/blog) | [project list](thomaslodgewilliams.com/project_list) | [links](thomaslodgewilliams.com/links) |
+| [home](/) | [portfolio](/portfolio) | [blog](/blog) | [project list](/project_list) | [links](/links) |
 ============================================
 
 # Thomas Williams Personal Portfolio (Work in Progress)
