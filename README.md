@@ -150,27 +150,8 @@ This was for a podcast hosted by two professors at Lafayette College. They had l
 
 ### Day Blind Stars
 Summer 2016 <br>
-I've always loved stars. Being able to see stars at night was a factor when picking out colleges. I was also going through s stippling phase.
+I've always loved stars. Being able to see stars at night was a factor when picking out colleges. I was also going through a stippling phase.
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/other/day_blind_stars_1.jpg" width="500" height="669" />
 
 <img src="https://raw.githubusercontent.com/high-tech-hobo/portfolio/master/pictures/other/day_blind_stars_2.jpg" width="500" height="669" />
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-For those that are viewing this on github still, I would first like to address the immediate question of what the heck is an art portfolio doing on GitHub. For those that might not know this site it mainly used for hosting programming projects, which I have a few of on here actually and will be adding a few more. Now why does it make sense for me to have my image based portfolio here? A few reasons actually. The first one is that I already know how to use all the functionality needed to host these files here with descriptions of the projects. Once I have finished my personal website I can use links to these images and files for display and download on said site. Finally, it's free. 
